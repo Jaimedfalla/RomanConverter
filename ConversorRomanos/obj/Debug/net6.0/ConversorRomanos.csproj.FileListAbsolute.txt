@@ -1,0 +1,15 @@
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\bin\Debug\net6.0\ConversorRomanos.exe
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\bin\Debug\net6.0\ConversorRomanos.deps.json
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\bin\Debug\net6.0\ConversorRomanos.runtimeconfig.json
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\bin\Debug\net6.0\ConversorRomanos.dll
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\bin\Debug\net6.0\ConversorRomanos.pdb
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.csproj.AssemblyReference.cache
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.AssemblyInfoInputs.cache
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.AssemblyInfo.cs
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.csproj.CoreCompileInputs.cache
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.dll
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\refint\ConversorRomanos.dll
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.pdb
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ConversorRomanos.genruntimeconfig.cache
+C:\Users\JAIME\Documents\my-projects\ConversorRomanos\ConversorRomanos\obj\Debug\net6.0\ref\ConversorRomanos.dll
