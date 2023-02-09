@@ -1,6 +1,6 @@
 ﻿namespace ConversorRomanos
 {
-    public static class Converter
+    public static class RomanConverter
     {
         private static readonly Dictionary<int, char> _romanos = new Dictionary<int, char>() {
         {
@@ -23,12 +23,16 @@
         },
         {
             1000,'M'
+        },
+        {
+            5000,'¯'
         }
     };
 
-        public static void ConvertNumber(int number, ref string converted, int potencia = 1)
+        public static string ConvertNumber(int number, int potencia = 1)
         {
-            if (number == 0) return;
+            string converted = string.Empty;
+            if (number == 0) return converted;
 
             double valorPotencia = Math.Pow(10, potencia - 1);
             int cociente = (int)(number / Math.Pow(10, potencia));
@@ -53,12 +57,14 @@
                 }
                 else
                 {
-                    ; converted = $"{_romanos[(int)residuo]}{converted}";
+                    converted = $"{_romanos[(int)residuo]}{converted}";
                 }
             }
 
             potencia++;
-            ConvertNumber(number - (int)residuo, ref converted, potencia);
+            converted = $"{ConvertNumber(number - (int)residuo, potencia)}{converted}";
+
+            return converted;
         }
     }
 }
